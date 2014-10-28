@@ -1,0 +1,8 @@
+Questions to return later:
+
+* Template Subclassing
+
+* How "infixWithLength" works. What is "Infix<T>::". And how works smth like this:
+DnaString chr1 = "TATAAT";
+DnaString genomeFragment = infixWithLength(chr1, 0, 2);
+
